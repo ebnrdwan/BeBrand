@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         String theMoab = "http://www.themoap.org/";
         String bebrand ="http://bebrand.tv/";
         String newBeBrand="http://jolijour.bebrand.tv/";
-        browser.loadUrl(bebrand);
+        browser.loadUrl(theMoab);
         browser.getSettings().setJavaScriptEnabled(true);
     }
 
