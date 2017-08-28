@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ABD0CE</color>
+    <color name="colorPrimaryDark">#7C7877</color>
+    <color name="colorAccent">#FDD692</color>
+    <color name="themoapPrimary">#EC7357</color>
+    <color name="theMoapPrimaryDark">#754F44</color>
+    <color name="theMoapAccent">#FDD692</color>
+</resources>
